@@ -3,7 +3,7 @@ title: 吾窝，装饰您的生活
 email: dlut_riddleleo@foxmail.com
 url: https://WOW-Decorate.github.io
 description: "Decorating Your Life"
-skills: "规划空间，让家有更多可能"
+skills: "规划您的空间，让家有更多可能"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,19 +32,17 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: 我们的体验店
+  location: 吾窝体验店
   credits: 联系我们
 
 # Postal address (add as many lines as necessary)
 address:
   - line: '<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%9F%B3%E7%89%8C%E5%8D%97%E9%97%A8%E8%8B%91">广州市天河区瘦狗岭路583号</a>'
-  - line: 广州市吾窝建筑装饰有限公司
+
 
 
 # Credits content
-credits: 
-   - line: 020-38343625
-   - line: wowdecorate@wow.cn
+credits: 020-38343625 <br> wowdecorate@wow.cn
  
 
 # Build settings
