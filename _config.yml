@@ -37,7 +37,7 @@ footer:
   credit: 更多资讯
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-info:
+social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
