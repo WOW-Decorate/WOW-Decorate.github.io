@@ -51,14 +51,12 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 广州市天河区瘦狗岭路555号
+  - line: '<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%9F%B3%E7%89%8C%E5%8D%97%E9%97%A8%E8%8B%91">广州市天河区瘦狗岭路555号</a>'
 
 
 # Credits content
-credit: 
-  - line: 联系电话：XXXXXX
-  - line: 座机：
-  - line: 邮箱：
+credit: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
 
 # Build settings
 markdown: kramdown
