@@ -33,21 +33,15 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: 我们的体验店
-  social: 联系我们
-  credits: 更多资讯
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - line: 联系电话：020-38343625
+  credits: 联系我们
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 广州市吾窝建筑装饰有限公司
-  - line: '<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%9F%B3%E7%89%8C%E5%8D%97%E9%97%A8%E8%8B%91">广州市天河区瘦狗岭路583号</a>'
+  - line: '<a href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E7%9F%B3%E7%89%8C%E5%8D%97%E9%97%A8%E8%8B%91">广州市天河区瘦狗岭路583号，吾窝建筑装饰有限公司</a>'
 
 
 # Credits content
-credits: XXX
+credits: 联系电话：020-38343625
 
 # Build settings
 markdown: kramdown
