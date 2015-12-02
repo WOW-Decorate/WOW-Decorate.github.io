@@ -1,12 +1,28 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2015-12-02
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: 2015-12-02
+phone: 020-38343625
+category: http://wow-decorate.github.io/
 ---
+###基本情况
+老孙家的烔烔到了上小学的年纪，住在山东老家的爷爷奶奶要来广州照顾烔烔。
+一个9.3平米的卧室，要住下三口人。
+
+###客户需求
+一、爷爷奶奶和孙子要有独立且隐私的睡觉区。
+二、需要一个看书学习的地方。
+三、足够三个人生活使用的储物空间。
+
+###改造过程
+一、打掉阳台与卧室的隔墙，将阳台空间纳入房间内。  
+二、使用loft bed的设计，1.5米下床供爷爷奶奶居住，1.2的上床是小孙子的儿童床。
+三、独立的上床方式
+孙子从左侧的楼梯上小床1.5米的大床的外侧可以由侧边上床，内侧可以从床脚的空间自由上下床。 
+五、在靠窗位设置书桌和格栅，分割卧室和学习区，保证小孙子的学习环境。
+六、靠墙位置设置大衣柜与书柜、斜梯内设置储物空间
+ 
+
