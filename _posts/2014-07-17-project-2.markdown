@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 局部空间规划方案：
+title: 局部空间规划方案
 modal-id: 2
 date: 2015-12-02
 img: cake.png
