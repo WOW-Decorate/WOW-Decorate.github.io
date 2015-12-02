@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 整体空间规划方案：
+title: 整体空间规划方案
 modal-id: 1
 date: 2015-12-02
 img: cabin.png
-detail:整体空间XXXX
+detail: tetst 
 alt: image-alt
 project-date: 2015-12-02
 phone: 020-38343625
