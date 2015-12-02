@@ -18,7 +18,9 @@
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                            <h2>{{ post.title }}</h2>
+                            <strong>{{ post.title }}</strong>
+                            <br>
+                            {{ post.detail }}
                         </a>
                     </div>
                 {% endfor %}
