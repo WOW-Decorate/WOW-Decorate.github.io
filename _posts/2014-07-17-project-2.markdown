@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 局部空间规划方案
-subtitle: 6岁的爷孙之家
+subtitle: 6平米的爷孙之家
 modal-id: 2
 date: 2015-12-02
 img: cake.png
@@ -10,6 +10,7 @@ project-date: 2015-12-02
 phone: 020-38343625
 category: http://wow-decorate.github.io/
 ---
+
 ###基本情况
 老孙家的烔烔到了上小学的年纪，住在山东老家的爷爷奶奶要来广州照顾烔烔。
 一个9.3平米的卧室，要住下三口人。
