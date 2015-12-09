@@ -46,7 +46,7 @@ credits: 020-38343625 <br> wowdecoration@163.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - line: <img src="img/wow.jpg" alt="wow"/>
+  - line: <img src="img/wow.png" alt=""/>
  
 # Build settings
 markdown: kramdown
