@@ -1,10 +1,10 @@
 ---
 layout: default
 title: 局部空间规划方案
+subtitle: 6岁的爷孙之家
 modal-id: 2
 date: 2015-12-02
 img: cake.png
-detail: test
 alt: image-alt
 project-date: 2015-12-02
 phone: 020-38343625
