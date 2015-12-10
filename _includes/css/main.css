@@ -403,6 +403,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    max-width: 100%;
 }
 
 .portfolio-modal .modal-content .item-details {
