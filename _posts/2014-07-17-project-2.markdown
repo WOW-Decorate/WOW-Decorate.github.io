@@ -47,5 +47,5 @@ category: http://wow-decorate.github.io/
 
 
 <video id="video" width="480" height="400" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-<source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+<source id="mp4" src="/img/makapc.mp4" type="video/mp4">
 </video>
