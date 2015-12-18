@@ -46,7 +46,7 @@ category: http://wow-decorate.github.io/
 <p align="left">老孙家的改造预算为<b><i><font color="red">3万</font></i></b>，相比起上<b><i><font color="red">百万</font></i></b>购置一套新房，是不是很划算呢？住房的需求会随着家庭情况不断变化，比如生了二孩、老人来居住等。买个大房子不失为一个选择，可是高房价让很多人望而却步。</p>
 
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+<video id="video" width="480" height="400" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
 <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
 <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
 <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
